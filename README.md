@@ -1,2 +1,2 @@
 # Uni-projects-Part-6
-Tratamiento digital de imagenes biomedicas y segmentacion - Matlab y 3DSlicer
+Tratamiento digital de imagenes biomedicas Parte 1
